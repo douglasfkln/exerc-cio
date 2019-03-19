@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-image: url("imagens/fundo.jpg");
+    margin: 0;
+    background-image: url(imagens/fundo.jpg);
+}
+
+.div1, .div2 {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+
+.div1 {
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    float: left;
+}
+
+.div2 {
+    color: blue;
+    background: red;
+    float: right;
+}
